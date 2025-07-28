@@ -1,7 +1,5 @@
-# multi-agent-LLM-powered-QA-system
+# Multi-Agent-LLM-Powered-QA-System
 
-
-# Dynamic Replanning Executor Agent
 
 ## Overview
 
